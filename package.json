@@ -1,0 +1,32 @@
+{
+  "name": "acunetix",
+  "version": "1.0.0",
+  "description": "This is a clone of hyns nuker / avery nuker made with javascript and open source!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SklyerX/Acunetix.git"
+  },
+  "keywords": [
+    "discord",
+    "nuker",
+    "tool",
+    "cli"
+  ],
+  "author": "ba#6621",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SklyerX/Acunetix/issues"
+  },
+  "homepage": "https://github.com/SklyerX/Acunetix#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "console-title": "^1.1.0",
+    "discord.js": "^12.5.3",
+    "discord.js-self": "^12.0.4",
+    "input": "^1.0.1"
+  }
+}
